@@ -1,0 +1,21 @@
+body{
+    background-color: #ad1a1a;
+}
+
+label:hover{
+    color: greenyellow;
+}
+
+h2{
+    padding-top: 30px;
+    text-align: center;
+}
+
+form{
+    border: 1px solid white;
+    width: 200px;
+    padding: 50px;
+    border-radius: 15px;
+}
+
+  
